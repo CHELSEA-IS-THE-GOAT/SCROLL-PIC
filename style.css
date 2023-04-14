@@ -1,0 +1,44 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: White;
+}
+
+.cd-logo, .My-picture, .birthday-cake{
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #642580;
+  background-size: contain;
+  min-height:99%;  
+  background-attachment: fixed;
+}
+
+.cd-logo {
+  background-image: url("pl3dbpd.jpg");
+  min-height: 100%;
+  background-size: auto;
+  
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: white;
+  text-align:center
+}
+
+.textSection {
+  background-color:#642580;
+  padding:50px 80px;
+}
+.My-picture{ 
+  background-image: url("gyyfcrjugcfjhgfbhs.jpg");                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+  background-size: cover;
+}
+.birthday-cake{
+  background-image: url("C1272.jpg");
+  background-size: cover;
+}
